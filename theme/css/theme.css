@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans");
+body {
+  font-family: 'Noto Sans', sans-serif; }
+
+.carousel-caption {
+  background: #0007; }
+  @media screen and (max-width: 480px) {
+    .carousel-caption h3 {
+      font-size: .8rem; } }
+
+nav .burger {
+  font-size: 0.7rem; }
+
+.home-5-excerpts {
+  background-color: #0003; }
+  .home-5-excerpts p {
+    margin-bottom: 0px;
+    text-decoration: none;
+    color: black; }
+  .home-5-excerpts a:hover {
+    text-decoration: none; }
+
+.footer {
+  text-align: center; }
+
+.copyright-text {
+  display: block;
+  text-align: center; }
+
+.footer-bg {
+  background-color: #C0DEDC; }
+
+main p:first-of-type {
+  text-indent: 50px;
+  padding-top: 20px; }
+
+/*# sourceMappingURL=theme.css.map */
